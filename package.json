@@ -27,7 +27,7 @@
     "jsonwebtoken": "^8.5.1",
     "mongoose": "^5.9.2",
     "query-string": "^6.11.1",
-    "validator": "^12.2.0"
+    "validator": "^13.7.0"
   },
   "devDependencies": {
     "nodemon": "^2.0.2"
