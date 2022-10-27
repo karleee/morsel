@@ -15,9 +15,6 @@ Morsel is a single page MERN stack application that parodies off the concept and
 <img src="https://github.com/karleee/morsel/blob/master/README_images/morsel_main2.png" alt="Homepage" width="900px" border="1">
 </kbd>
 
-## How It Works
-To see the most up to date version, please visit [the homepage](https://themorsel.herokuapp.com/).
-
 ## Technologies Used
 * Routing – Express
 * Database – MongoDB
